@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "package:spring-boot-complete",
+    "appService.deploySubpath": "target/spring-boot-complete-0.0.1-SNAPSHOT.jar",
+    "appService.defaultWebAppToDeploy": "None"
+}
