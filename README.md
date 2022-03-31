@@ -19,6 +19,6 @@ In the above code, replace "your-keyVault-name" with your vault name.
 In Azure portal for the Webapp, turn on Identity and enable Azure Role Assignments (preview)
 -or-
 navigate to the Keyvault in portal and add new access policy
-
+Refer - https://docs.microsoft.com/en-us/azure/app-service/overview-managed-identity?tabs=portal%2Chttp
 Browse the app using the Web app URL
  
